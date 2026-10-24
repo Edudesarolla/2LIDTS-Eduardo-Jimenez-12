@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="2LIDTS-Eduardo-Jimenez-12/2LIDTS-Eduardo-Jimenez-12.vcxproj" />
+</Solution>
